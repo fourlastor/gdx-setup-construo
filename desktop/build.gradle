@@ -14,10 +14,6 @@ application {
     mainClass = "com.mygdx.game.DesktopLauncher"
 }
 
-project.ext.mainClassName = "com.mygdx.game.DesktopLauncher"
-project.ext.assetsDir = new File("../assets")
-
-
 eclipse.project.name = appName + "-desktop"
 
 
